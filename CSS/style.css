@@ -1,4 +1,40 @@
 
+
 * {
   box-sizing: border-box;
+}
+
+body {
+  font-size: 1.2em;
+}
+
+header {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  float: right;
+  padding: 10px 20px 10px 0;
+}
+
+/* Classes */
+
+.main-header {
+  background-color: orange;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+.main-container {
+  margin: 0 auto;
+  width: 80%;
+  border: solid 2px red;
 }
