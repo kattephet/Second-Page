@@ -115,6 +115,7 @@ h3 {
   margin-right: auto;
   z-index: 3;
   max-width: 80%;
+  border: solid 1px #a1a1a1;
 }
 
 .banner {
@@ -125,6 +126,7 @@ h3 {
 .section1,
 .section2 {
   padding: 20px 0;
+  border: solid 1px #a1a1a1;
 }
 
 .main-footer {
